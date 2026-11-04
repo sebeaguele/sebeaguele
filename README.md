@@ -28,6 +28,7 @@
 
 ### 🚀 Featured projects
 
+- **[Cybersecurity-Beginner-Roadmap](https://github.com/sebeaguele/Cybersecurity-Beginner-Roadmap)**: A 30-day beginner track for getting into cybersecurity, built on free resources and open-source tools ⭐ *New*
 - **[incident-response-tool](https://github.com/sebeaguele/incident-response-tool)**: An AI-powered incident response platform that ingests GitHub, CloudWatch, PagerDuty and HTTP alerts and triages them with Claude
 - **[claude-code-security](https://github.com/sebeaguele/claude-code-security)**: A security auditor for Claude Code configs, skills, MCP servers and hooks
 - **[30-days-Detection-Engineering](https://github.com/sebeaguele/30-days-Detection-Engineering)**: A 30-day detection engineering learning plan
