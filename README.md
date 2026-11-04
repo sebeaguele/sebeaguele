@@ -13,7 +13,8 @@
 
 - ~10 years securing enterprises end to end, from cloud and identity to endpoints, detection and response
 - Certified: **CEH** · **AZ-900** · **AZ-500**
-- Founder of **[Robustix Labs](https://www.robustixlabs.com)**, which offers security consulting, fractional security leadership and AI-powered security products
+- 🏢 **Experience:** Principal and senior security engineering roles across **big tech**, **healthcare AI** and **AI-native deep tech**, securing cloud platforms, identities and endpoints at enterprise scale
+- 🚀 **Founder of [Robustix Labs](https://www.robustixlabs.com)**: security consulting, fractional security leadership and AI-powered security products for startups and enterprises
 - I build AI agents and tools that help defenders move faster, and I share what I learn along the way
 
 ### 🔐 What I work on
