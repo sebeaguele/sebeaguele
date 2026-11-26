@@ -36,6 +36,8 @@
 - **[Here-IAM](https://github.com/sebeaguele/Here-IAM)**: A 6-month plan for moving into IAM, from beginner to job-ready
 - **[Threat modelling in 5 steps](https://github.com/sebeaguele/5-Step-threat-modelin-process-to-improve-resiliency-identity-close-gaps-)**: A practical process for identifying assets, mapping attacker TTPs and closing control gaps
 
+📘 [How I work](ENGINEERING.md): selected work, a response playbook, writing and talks
+
 ### 🧰 Toolbox
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
